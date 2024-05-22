@@ -3,7 +3,9 @@ EQ2341 Activity Recognition project 2024
 
 Requirements:
 Need an editor that can run ipynb files with an python kernel.
+
 I used vscode with Jupyter Extension for Visual Studio Code.
+
 Possible to use Google Colab by uploading the project to Colab. May need to edit the data loading code from './data/training' to 'content/data/training' and './data/testing'  to 'content/data/testing', to correctly load the data.
 
 TO run:
